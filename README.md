@@ -1,8 +1,8 @@
 ## DATA ANALYTICS:
-### 1.TITANIC DATASET (EDA)
+### 1. Titanic Dataset: Exploratory Data Analysis
 Data source:https://www.kaggle.com/c/titanic/data
 
 
 #### Description:
 
-This project analyzes the famous Titanic dataset to predict passenger survival using machine learning techniques. The dataset includes features such as passenger class, age, gender, and fare. Exploratory Data Analysis (EDA) uncovers patterns and insights about survival rates. Missing data is handled through imputation, and feature engineering is performed to create new variables. The model's goal is to accurately classify passengers into survivors or non-survivors.
+This project explores the Titanic dataset using various data analysis techniques. Key features such as age, gender, and passenger class are analyzed to uncover trends and survival patterns. Visualizations provide insights into relationships between variables. Missing values are handled appropriately, and statistical summaries are presented. No machine learning models are included; this project focuses solely on EDA and data cleaning.
